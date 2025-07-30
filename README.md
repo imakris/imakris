@@ -11,4 +11,4 @@ My professional work focuses on developing full-stack C++ applications for scien
 *   **[sintra](https://github.com/imakris/sintra):** A header-only C++11 library for Inter-Process Communication (IPC).
 *   **[briefutil](https://github.com/imakris/briefutil):** A simple utility that generates PDF letters, based on LaTeX templates.
 
-**My curated professional portfolio can be viewed on my website: [www.imakris.de]** ```
+**My curated professional portfolio can be viewed on my website: [www.imakris.de]**
