@@ -1,16 +1,14 @@
-## Hi there 👋
+### Ioannis Makris
 
-<!--
-**imakris/imakris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer & Consultant | C++, Qt, Systems-Level Graphics
 
-Here are some ideas to get you started:
+My professional work focuses on developing full-stack C++ applications for scientific and industrial hardware. This GitHub profile serves as an archive for personal projects, primarily developer tooling and foundational C++ libraries.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Key Public Projects:**
+
+*   **[glatter](https://github.com/imakris/glatter):** An OpenGL loading library for GL, GLES, EGL, GLX, and WGL that also facilitates call logging and error checking.
+*   **[mexce](https://github.com/imakris/mexce):** A lightweight, single-header runtime compiler for mathematical expressions in C++, which generates machine code for the x87 FPU.
+*   **[sintra](https://github.com/imakris/sintra):** A header-only C++11 library for Inter-Process Communication (IPC).
+*   **[briefutil](https://github.com/imakris/briefutil):** A simple utility that generates PDF letters, based on LaTeX templates.
+
+**My curated professional portfolio can be viewed on my website: [www.imakris.de]** ```
