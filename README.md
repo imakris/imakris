@@ -9,5 +9,5 @@ My professional work focuses on developing full-stack C++ applications for scien
 *   **[glatter](https://github.com/imakris/glatter):** An OpenGL loading library for GL, GLES, EGL, GLX, and WGL that also facilitates call logging and error checking.
 *   **[mexce](https://github.com/imakris/mexce):** A lightweight, single-header runtime compiler for mathematical expressions in C++, which generates machine code for the x87 FPU.
 *   **[sintra](https://github.com/imakris/sintra):** A header-only C++20 library for Inter-Process Communication (IPC).
-*   **[vnm_plot](https://github.com/imakris/vnm_plot):** A GPU-accelerated time-series plotting library using OpenGL with optional Qt Quick integration.
+*   **[vnm_plot](https://github.com/imakris/vnm_plot):** A GPU-accelerated time-series plotting library using QRhi with optional Qt Quick integration.
 *   **[briefutil](https://github.com/imakris/briefutil):** A simple utility that generates PDF letters, based on customized templates.
