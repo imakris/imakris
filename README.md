@@ -11,5 +11,3 @@ My professional work focuses on developing full-stack C++ applications for scien
 *   **[sintra](https://github.com/imakris/sintra):** A header-only C++20 library for Inter-Process Communication (IPC).
 *   **[vnm_plot](https://github.com/imakris/vnm_plot):** A GPU-accelerated time-series plotting library using OpenGL with optional Qt Quick integration.
 *   **[briefutil](https://github.com/imakris/briefutil):** A simple utility that generates PDF letters, based on customized templates.
-
-**My curated professional portfolio can be viewed on my website: [www.imakris.de]**
